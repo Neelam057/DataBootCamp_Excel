@@ -1,6 +1,6 @@
 # Crowdfunding Campaign Analysis
 
-## Background
+## **Background**
 Billions of dollars have been raised through crowdfunding, with the global market expected to grow to $72.88 billion by 2032. To receive funding on these projects, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects to discover “the trick” to finding success.
 
 ### Objective
@@ -32,6 +32,7 @@ Also, we could analyze the percent funded with respect to parent category and ou
 As we can see from the graph, the mean is much higher than the median in the number of backers. That means data is skewed, it has outliers and influenced by extremely large values. Some projects get thousands of backers, and some get only a few. Therefore, median better summarizes the data than the mean as it is not affected by outliers. Both the Mean and Median number of backers for successful projects are higher than the mean/median backers for failed projects. Conclusion is the more the number of backers funding the project, the more the success rate is.
 
 There is a higher variance in successful campaigns. Some campaigns are hugely successful like theater and music projects raising far beyond their goal, while others barely meet their targets. So, the extremely successful campaign might have increased this variance. Therefore, predicting success is more difficult with the provided data. 
-<img src="C:\Users\neela\Documents\BootCamp_2024\Github_HW\02-Homework\01-Excel\Starter_Code\Images\CategoryStats.PNG">
+
+
 
 
