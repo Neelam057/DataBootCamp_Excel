@@ -6,7 +6,7 @@ Billions of dollars have been raised through crowdfunding, with the global marke
 ### Objective
 Here are the excel data analysis of 1000 sample projects to uncover hidden trends by examining different attributes and how they are affecting the growth or success of the project. Not every crowdfunding is successful. Of over 1000 projects, only half, i.e. 565 of the projects were successful.
 
-#### Data Sample
+#### **Data Sample**
 <img src="https://static.bc-edx.com/data/dl-1-2/m1/lms/img/FullTable.jpg">
 
 ##### Conclusion 1
