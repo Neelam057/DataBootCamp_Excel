@@ -32,6 +32,6 @@ Also, we could analyze the percent funded with respect to parent category and ou
 As we can see from the graph, the mean is much higher than the median in the number of backers. That means data is skewed, it has outliers and influenced by extremely large values. Some projects get thousands of backers, and some get only a few. Therefore, median better summarizes the data than the mean as it is not affected by outliers. Both the Mean and Median number of backers for successful projects are higher than the mean/median backers for failed projects. Conclusion is the more the number of backers funding the project, the more the success rate is.
 
 There is a higher variance in successful campaigns. Some campaigns are hugely successful like theater and music projects raising far beyond their goal, while others barely meet their targets. So, the extremely successful campaign might have increased this variance. Therefore, predicting success is more difficult with the provided data. 
+<img src="C:\Users\neela\Documents\BootCamp_2024\Github_HW\02-Homework\01-Excel\Starter_Code\Images\CategoryStats.PNG">
 
-<img src="![image](https://github.com/user-attachments/assets/4fbd636b-f6d7-4f2e-a5a8-9760009ec4fc)">
 
